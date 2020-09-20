@@ -1,0 +1,1 @@
+Repository for my blog [3D ePUB icon for my articles about Self](http://blog.rfox.eu/en/3D_modeling/3D_ePUB_icon_for_my_articles_about_Self.html).
